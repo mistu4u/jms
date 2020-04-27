@@ -13,7 +13,7 @@ import com.ibm.msg.client.jms.JmsConnectionFactory;
 import com.ibm.msg.client.jms.JmsFactoryFactory;
 import com.ibm.msg.client.wmq.WMQConstants;
 public class JmsProducer {
-    private static String host = "i2esb-global.rei.com";
+    private static String host = "i2esb-global.ell.com";
     private static int port = 1415;
     private static String channel = "SYSTEM.DEF.SVRCONN";
     private static String user = null;
